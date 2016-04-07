@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FilterableListExample</string>
+    <string name="action_about">About</string>
+    <string name="action_about_message">Hope you enjoy this example...</string>
+    <string name="search_hint">Search</string>
+</resources>
