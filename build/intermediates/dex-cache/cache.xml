@@ -1,3 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_7ce84738c7051d34c2b19a2abdc00c52e7916ccb\classes.dex" />
+    </item>
+    <item
+        jar="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_b723c8ca3aa1040776869ac8ef6e57474bfc6eb6\classes.dex" />
+    </item>
+    <item
+        jar="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_6adf83d72a7b5d7e7bd9c0b6b2295e34a60cbd97\classes.dex" />
+    </item>
+    <item
+        jar="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_db6ebf3119aaf7571a96a3b2f88639e167c60e68\classes.dex" />
+    </item>
+    <item
+        jar="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e03b8595c3fd709ef1070c8c10a77ebc729cac11">
+        <dex dex="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1e530e5aad2ce0b9f120824d67399fbd3d2c0b43\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rafael\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_5c5b7da47c31cbf053bc0cb4cca6ade613ee96c5\classes.dex" />
+    </item>
+    <item
+        jar="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_e7fedca0b876d401dac06c81c8f9d7c8b2f4fcb9\classes.dex" />
+    </item>
+    <item
+        jar="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_b765303625cf255295fcd0ae874b7034bebaa236\classes.dex" />
+    </item>
+    <item
+        jar="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ff99f7561cf21cafd144209df4e555943ca5d7cd">
+        <dex dex="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1d98aefd07cbfb1922b0cd77db4de1908998ae71\classes.dex" />
+    </item>
+    <item
+        jar="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="G:\Android\GitHub\FilterableListExample\FilterableListExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_30505ab0342b76d5a2ce332106f9cec87c2c1774\classes.dex" />
+    </item>
+
+</items>
